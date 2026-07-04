@@ -1,0 +1,6 @@
+{
+  "name": "JEE Test Series Portal",
+  "description": "A premium customizable JEE Mains & Advanced test series portal with a realistic brain training animation, dynamic OMR sheet submission, result analysis, and teacher monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
